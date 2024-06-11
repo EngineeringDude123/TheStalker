@@ -57,7 +57,7 @@ light_color = Color(0.807843, 0.756863, 0.0862745, 1)
 omni_range = 15.0
 
 [node name="CharacterBody3D" type="CharacterBody3D" parent="."]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 2)
+transform = Transform3D(1, 0, 0, 0, 1.58237, 0, 0, 0, 1, 0, 0, 2)
 script = ExtResource("6_1dm3w")
 
 [node name="MeshInstance3D" type="MeshInstance3D" parent="CharacterBody3D"]
