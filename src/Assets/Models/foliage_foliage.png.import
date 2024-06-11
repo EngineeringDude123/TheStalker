@@ -2,17 +2,20 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dwvou18x3p01u"
-path.s3tc="res://.godot/imported/ground_n.png-160056bec31f2fb4099a7f12724680e0.s3tc.ctex"
+uid="uid://cky8ajjtagclt"
+path.s3tc="res://.godot/imported/foliage_foliage.png-17b9e4af4612d8bed76e8a007132cb88.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
 }
+generator_parameters={
+"md5": "1ab99ce77239efa54a859ff2f6a01c76"
+}
 
 [deps]
 
-source_file="res://ground_n.png"
-dest_files=["res://.godot/imported/ground_n.png-160056bec31f2fb4099a7f12724680e0.s3tc.ctex"]
+source_file="res://Assets/Models/foliage_foliage.png"
+dest_files=["res://.godot/imported/foliage_foliage.png-17b9e4af4612d8bed76e8a007132cb88.s3tc.ctex"]
 
 [params]
 
@@ -20,12 +23,12 @@ compress/mode=2
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1
-compress/normal_map=1
+compress/normal_map=0
 compress/channel_pack=0
 mipmaps/generate=true
 mipmaps/limit=-1
-roughness/mode=1
-roughness/src_normal="res://ground_n.png"
+roughness/mode=0
+roughness/src_normal=""
 process/fix_alpha_border=true
 process/premult_alpha=false
 process/normal_map_invert_y=false

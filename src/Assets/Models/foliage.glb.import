@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://bnytrvs8g4lro"
-path="res://.godot/imported/foliage.glb-b769b21413b6b893cbc96bb830b5da69.scn"
+uid="uid://bk8nc52lkwfbv"
+path="res://.godot/imported/foliage.glb-0b18fcf88a558768ba9dcb34de3dc1b0.scn"
 
 [deps]
 
-source_file="res://foliage.glb"
-dest_files=["res://.godot/imported/foliage.glb-b769b21413b6b893cbc96bb830b5da69.scn"]
+source_file="res://Assets/Models/foliage.glb"
+dest_files=["res://.godot/imported/foliage.glb-0b18fcf88a558768ba9dcb34de3dc1b0.scn"]
 
 [params]
 
