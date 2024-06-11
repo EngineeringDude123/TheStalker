@@ -1,0 +1,24 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1718148717
+Campfire.glb::PackedScene::6344399797920970840::1718044428::1718044429::1::::<><>::uid://co1j5rrhf5gyk::::res://Campfire_bark_burned.png
+campfire.tscn::PackedScene::1158656589208771524::1718076602::0::1::::<><>::uid://cwnjlqowugskm::::res://Campfire.glb<>uid://dw687v4tl5gpv::::res://smoke.png
+Campfire_bark_burned.png::CompressedTexture2D::5809759946160798770::1718044429::1718044430::1::::<><>::
+export_presets.cfg::TextFile::-1::1718053633::0::1::::<><>::
+fire.png::CompressedTexture2D::4665290164426811330::1718044428::1718045316::1::::<><>::
+foliage.glb::PackedScene::3349605830749275364::1718044428::1718044430::1::::<><>::uid://dco0kck582af4::::res://foliage_foliage.png
+foliage.tscn::PackedScene::1910188896172059124::1718076602::0::1::::<><>::uid://bnytrvs8g4lro::::res://foliage.glb<>uid://dco0kck582af4::::res://foliage_foliage.png
+foliage_foliage.png::CompressedTexture2D::7330076931573383023::1718044429::1718044430::1::::<><>::
+foliage_mesh.tres::MeshLibrary::5906550773994102051::1718075919::0::1::::<><>::uid://dco0kck582af4::::res://foliage_foliage.png
+ground.png::CompressedTexture2D::6428031536473597596::1718044428::1718046717::1::::<><>::
+ground.tscn::PackedScene::2775379790885842576::1718076602::0::1::::<><>::uid://cxt10f0efrkgq::::res://ground.png<>uid://dwvou18x3p01u::::res://ground_n.png
+ground_n.png::CompressedTexture2D::8747655715396800324::1718044428::1718046793::1::::<><>::
+icon.svg::CompressedTexture2D::9012981576612331097::1717894107::1717894118::1::::<><>::
+layer.gd::GDScript::-1::1718053196::0::1::::<>CharacterBody3D<>::
+Sky.png::CompressedTexture2D::4890164810011151292::1718051332::1718051334::1::::<><>::
+smoke.png::CompressedTexture2D::8769474276326959083::1718046374::1718046379::1::::<><>::
+Tree.glb::PackedScene::3706360835074669783::1718044428::1718044430::1::::<><>::uid://cyaya0yw1nts0::::res://Tree_pine needles.png<>uid://dly4y70qmnp5a::::res://Tree_bark.png
+tree.tscn::PackedScene::6312147919150029505::1718076602::0::1::::<><>::uid://bs2nhr81m586f::::res://Tree.glb<>uid://cyaya0yw1nts0::::res://Tree_pine needles.png<>uid://dly4y70qmnp5a::::res://Tree_bark.png
+Tree_bark.png::CompressedTexture2D::7982689769149886112::1718044430::1718044430::1::::<><>::
+tree_mesh.tres::MeshLibrary::9045300049757358098::1718075918::0::1::::<><>::uid://cyaya0yw1nts0::::res://Tree_pine needles.png<>uid://dly4y70qmnp5a::::res://Tree_bark.png
+Tree_pine needles.png::CompressedTexture2D::6458832173719291665::1718044430::1718044430::1::::<><>::
+world.tscn::PackedScene::2712767756744434668::1718076661::0::1::::<><>::uid://bfsodnhlyamb5::::res://ground.tscn<>uid://cbw3kg0t3e3ns::::res://Sky.png<>uid://d14u1gpjcv8v3::::res://tree_mesh.tres<>uid://cqfga7x5xy6lb::::res://foliage_mesh.tres<>uid://qri50484tgoi::::res://campfire.tscn<>res://layer.gd
