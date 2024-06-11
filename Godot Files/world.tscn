@@ -20,6 +20,8 @@ tonemap_mode = 2
 glow_enabled = true
 fog_enabled = true
 fog_light_color = Color(0.289729, 0.316568, 0.358758, 1)
+fog_density = 0.005
+fog_sky_affect = 0.05
 
 [sub_resource type="CapsuleMesh" id="CapsuleMesh_xo4gd"]
 
