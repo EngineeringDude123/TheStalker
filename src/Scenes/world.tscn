@@ -1,10 +1,10 @@
 [gd_scene load_steps=12 format=3 uid="uid://bewc5hib433x5"]
 
-[ext_resource type="PackedScene" uid="uid://bfsodnhlyamb5" path="res://ground.tscn" id="1_eaejy"]
-[ext_resource type="Texture2D" uid="uid://cbw3kg0t3e3ns" path="res://Sky.png" id="1_yykm2"]
-[ext_resource type="MeshLibrary" uid="uid://d14u1gpjcv8v3" path="res://tree_mesh.tres" id="2_rvcs6"]
-[ext_resource type="MeshLibrary" uid="uid://cqfga7x5xy6lb" path="res://foliage_mesh.tres" id="3_7r3en"]
-[ext_resource type="PackedScene" uid="uid://qri50484tgoi" path="res://campfire.tscn" id="5_g6xpm"]
+[ext_resource type="PackedScene" uid="uid://bfsodnhlyamb5" path="res://Scenes/ground.tscn" id="1_eaejy"]
+[ext_resource type="Texture2D" uid="uid://b0oimyca8yk7i" path="res://Assets/Image Assets/Sky.png" id="1_yykm2"]
+[ext_resource type="MeshLibrary" uid="uid://04wevruv88w6" path="res://Assets/Mesh Library/tree_mesh_new.tres" id="3_u4fhu"]
+[ext_resource type="MeshLibrary" uid="uid://qwisdqhpgsrq" path="res://Assets/Mesh Library/Foliage_mesh_new.tres" id="4_n086u"]
+[ext_resource type="PackedScene" uid="uid://qri50484tgoi" path="res://Scenes/campfire.tscn" id="5_g6xpm"]
 [ext_resource type="Script" path="res://layer.gd" id="6_1dm3w"]
 
 [sub_resource type="PanoramaSkyMaterial" id="PanoramaSkyMaterial_eu3oq"]
@@ -36,7 +36,7 @@ environment = SubResource("Environment_nvpih")
 [node name="Ground" parent="." instance=ExtResource("1_eaejy")]
 
 [node name="Trees" type="GridMap" parent="."]
-mesh_library = ExtResource("2_rvcs6")
+mesh_library = ExtResource("3_u4fhu")
 cell_size = Vector3(1, 2, 1)
 cell_center_y = false
 data = {
@@ -44,8 +44,8 @@ data = {
 }
 
 [node name="foliage" type="GridMap" parent="."]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -1, 0)
-mesh_library = ExtResource("3_7r3en")
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.0901566, -1.03277, -0.00740194)
+mesh_library = ExtResource("4_n086u")
 cell_size = Vector3(0.5, 2, 0.5)
 data = {
 "cells": PackedInt32Array(3, 65522, 262144, 8, 65522, 262144, 65524, 65530, 1507328, 65519, 65524, 1507328, 65505, 65521, 1507328, 65496, 65532, 1507328, 65505, 0, 1507328, 65514, 6, 1507328, 65519, 16, 1507328, 65512, 20, 1507328, 65499, 25, 1507328, 65495, 13, 1507328, 65493, 4, 1507328, 65511, 30, 1507328, 65507, 22, 1507328, 65507, 36, 1507328, 65527, 41, 1507328, 65528, 41, 1507328, 65528, 33, 1507328, 65516, 41, 1507328, 65530, 49, 1507328, 65531, 49, 1507328, 7, 40, 1507328, 0, 37, 1507328, 65535, 26, 1507328, 65535, 25, 1507328, 65530, 19, 1507328, 20, 21, 1507328, 7, 15, 1507328, 6, 29, 1507328, 7, 30, 1507328, 12, 21, 1507328, 31, 21, 1507328, 28, 33, 1507328, 27, 33, 1507328, 34, 12, 1507328, 34, 11, 1507328, 34, 65532, 1507328, 25, 65534, 1507328, 24, 65534, 1507328, 32, 65524, 1507328, 34, 65514, 1507328, 26, 65516, 1507328, 65529, 65510, 1507328, 7, 65512, 1507328, 65533, 65513, 1507328, 13, 65515, 1507328)

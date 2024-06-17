@@ -1,7 +1,7 @@
 [gd_scene load_steps=15 format=3 uid="uid://qri50484tgoi"]
 
-[ext_resource type="PackedScene" uid="uid://cwnjlqowugskm" path="res://Campfire.glb" id="1_55qum"]
-[ext_resource type="Texture2D" uid="uid://dw687v4tl5gpv" path="res://smoke.png" id="2_xgvwy"]
+[ext_resource type="PackedScene" uid="uid://c4exqqkb2vcd4" path="res://Assets/Models/Campfire.glb" id="1_55qum"]
+[ext_resource type="Texture2D" uid="uid://wjwmckshb8of" path="res://Assets/Image Assets/smoke.png" id="2_xgvwy"]
 
 [sub_resource type="Gradient" id="Gradient_xdtni"]
 offsets = PackedFloat32Array(0.00909091, 0.609091)
