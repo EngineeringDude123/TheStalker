@@ -2,8 +2,8 @@
 
 [ext_resource type="PackedScene" uid="uid://bfsodnhlyamb5" path="res://Scenes/ground.tscn" id="1_eaejy"]
 [ext_resource type="Texture2D" uid="uid://b0oimyca8yk7i" path="res://Assets/Image Assets/Sky.png" id="1_yykm2"]
-[ext_resource type="MeshLibrary" uid="uid://04wevruv88w6" path="res://Assets/Mesh Library/tree_mesh_new.tres" id="3_u4fhu"]
-[ext_resource type="MeshLibrary" uid="uid://qwisdqhpgsrq" path="res://Assets/Mesh Library/Foliage_mesh_new.tres" id="4_n086u"]
+[ext_resource type="MeshLibrary" uid="uid://bhsfuo1b2jgsw" path="res://Assets/Mesh Library/tree_mesh_new.tres" id="3_u4fhu"]
+[ext_resource type="MeshLibrary" uid="uid://bt4x18puvu2ij" path="res://Assets/Mesh Library/Foliage_mesh_new.tres" id="4_n086u"]
 [ext_resource type="PackedScene" uid="uid://qri50484tgoi" path="res://Scenes/campfire.tscn" id="5_g6xpm"]
 [ext_resource type="Script" path="res://layer.gd" id="6_1dm3w"]
 
