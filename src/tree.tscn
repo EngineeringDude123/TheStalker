@@ -1,7 +1,7 @@
 [gd_scene load_steps=11 format=3 uid="uid://dneq5fljw4g1w"]
 
-[ext_resource type="Texture2D" path="res://Tree_pine needles.png" id="2_mx3l7"]
-[ext_resource type="Texture2D" path="res://Tree_bark.png" id="3_1fnkt"]
+[ext_resource type="Texture2D" uid="uid://btw0j472uo6yt" path="res://Assets/Image Assets/Tree_pine needles.png" id="2_mx3l7"]
+[ext_resource type="Texture2D" uid="uid://bmaokecy03jy" path="res://Assets/Image Assets/Tree_bark.png" id="3_1fnkt"]
 
 [sub_resource type="Shader" id="Shader_u8h2b"]
 code = "// NOTE: Shader automatically converted from Godot Engine 4.2.2.stable's StandardMaterial3D.
